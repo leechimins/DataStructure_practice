@@ -20,7 +20,5 @@ int main(void) {
     int result = eval(post);
     printf("수식 계산값 : %d\n", result);
 
-    printf("깃허브 업로드 테스트 중\n");
-
     return 0;
 }
