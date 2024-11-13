@@ -20,5 +20,7 @@ int main(void) {
     int result = eval(post);
     printf("수식 계산값 : %d\n", result);
 
+    printf("로컬 -> 원격 테스트\n");
+
     return 0;
 }
